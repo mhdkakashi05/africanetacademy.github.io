@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>AfriNet Academy – Gagne de l'argent en ligne</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: linear-gradient(to bottom right, #0b3c5d, #328cc1);
+      color: white;
+      text-align: center;
+      padding: 60px 20px;
+    }
+    h1 {
+      font-size: 2.5em;
+      margin-bottom: 10px;
+    }
+    h2 {
+      font-weight: normal;
+      margin-top: 0;
+      font-size: 1.3em;
+      color: #eee;
+    }
+    .cta {
+      background-color: #ffd700;
+      color: #0b3c5d;
+      padding: 15px 30px;
+      font-size: 1.2em;
+      border: none;
+      border-radius: 8px;
+      margin-top: 30px;
+      cursor: pointer;
+      text-decoration: none;
+    }
+    footer {
+      margin-top: 50px;
+      font-size: 0.9em;
+      color: #ccc;
+    }
+  </style>
+</head>
+<body>
+  <h1>🎓 AfriNet Academy</h1>
+  <h2>Forme-toi. Lance-toi. Gagne de l’argent en ligne, même en Afrique.</h2>
+
+  <p><strong>🚀 Ouverture officielle très bientôt !</strong></p>
+  <a href="mailto:info@afrinetacademy.com" class="cta">Contactez-nous</a>
+
+  <footer>
+    © 2025 AfriNet Academy – Tous droits réservés.
+  </footer>
+</body>
+</html>
